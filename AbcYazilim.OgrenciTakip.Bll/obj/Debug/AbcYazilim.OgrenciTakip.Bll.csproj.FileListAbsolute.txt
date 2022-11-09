@@ -1,0 +1,6 @@
+C:\Users\KADIR\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Bll\bin\Debug\AbcYazilim.OgrenciTakip.Bll.dll
+C:\Users\KADIR\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Bll\bin\Debug\AbcYazilim.OgrenciTakip.Bll.pdb
+C:\Users\KADIR\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Bll\obj\Debug\AbcYazilim.OgrenciTakip.Bll.csproj.AssemblyReference.cache
+C:\Users\KADIR\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Bll\obj\Debug\AbcYazilim.OgrenciTakip.Bll.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Bll\obj\Debug\AbcYazilim.OgrenciTakip.Bll.dll
+C:\Users\KADIR\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Bll\obj\Debug\AbcYazilim.OgrenciTakip.Bll.pdb
